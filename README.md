@@ -7,7 +7,7 @@
 ----第五部分  
 ----第六部分 資料集中feature 有 numeric 也有 nominal 21 feature 200000 data  
 
-![model performance](/kaggle.png)
+![model performance](/kaggle.PNG)
 
 --課堂練習 2019機器學習概論
 
